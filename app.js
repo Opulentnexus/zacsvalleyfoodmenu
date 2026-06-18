@@ -1,11 +1,10 @@
 // ===== SPLASH SCREEN =====
-window.addEventListener('load', () => {
+document.addEventListener('DOMContentLoaded', () => {
   const splashScreen = document.getElementById('splashScreen');
-  if (splashScreen) {
-    setTimeout(() => {
-      splashScreen.classList.add('hidden');
-    }, 3000);
-  }
+
+  setTimeout(() => {
+    splashScreen.classList.add('hidden');
+  }, 3000);
 });
 
 const categories = ["All", ...new Set(menuData.map(i => i.category))];
