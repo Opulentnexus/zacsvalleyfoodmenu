@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   setTimeout(() => {
     splashScreen.classList.add('hidden');
-  }, 3000);
+  }, 2000);
 });
 
 const categories = ["All", ...new Set(menuData.map(i => i.category))];
