@@ -203,7 +203,7 @@ const menuData = [
 {category:"Egg Items", name:"Boiled Egg (2 Nos)", price:100, img:"boiled-egg.jpg"},
 {category:"Egg Items", name:"Half Boiled (2 Nos)", price:100, img:"half-boiled-egg.jpg"},
 {category:"Egg Items", name:"Egg Burji", price:200, img:"egg-burji.png"},
-{category:"Egg Items", name:"Egg Dosa", price:10, img:"egg-dosa.webp"},
+{category:"Egg Items", name:"Egg Dosa", price:100, img:"egg-dosa.webp"},
 {category:"Egg Items", name:"Egg Masala", price:200, img:"egg-masala.jpg"},
 {category:"Egg Items", name:"Egg Masala Dosa", price:95, img:"egg-masala-dosa.jpg"},
 {category:"Egg Items", name:"Egg Pepper Fry", price:200, img:"egg-pepper-fry.jpg"},
